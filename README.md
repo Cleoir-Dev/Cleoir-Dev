@@ -82,7 +82,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Cleoir-Dev/Cleoir-Dev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Cleoir-Dev/Cleoir-Dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
