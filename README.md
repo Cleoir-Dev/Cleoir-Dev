@@ -4,10 +4,10 @@
 <h2 align="center" class="heading-element" dir="auto">About Me</h2>
 <a id="user-content-about-me" class="anchor" aria-label="Permalink: About Me" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
 
-<p dir="auto">🤖 I love learning about and making machine learning systems.<br>
+<p dir="auto">🤖 I love learning about and developing corporate systems.<br>
 💻 I am constantly seeking out new technologies and learning about them.<br>
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.<br>
-🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.</p>
+🤝 I am open to collaborating with others on various projects, particularly those related to corporate systems or areas that I have yet to explore.<br>
+🌟 In my leisure time, I enjoy exploring retro games and finding new sources of inspiration for game development projects.</p>
 
 
 <h2 align="center" class="heading-element" dir="auto">Techs I Use</h2>
