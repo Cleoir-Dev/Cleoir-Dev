@@ -75,8 +75,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cleoir-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleoir-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="195" alt="languages graph"  />
-<img align="right" height="150" src="https://github.com/Cleoir-Dev/image-gif/blob/master/PixVerse_V5_Image_Text_360P_crie_um_gif_de_um_.gif"  />
 </div>
+
 
 ###
 
@@ -85,6 +85,10 @@
 <img src="https://raw.githubusercontent.com/Cleoir-Dev/Cleoir-Dev/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="left">
+	<img height="150" src="https://github.com/Cleoir-Dev/image-gif/blob/master/PixVerse_V5_Image_Text_360P_crie_um_gif_de_um_.gif"  />
+</div>
 
 <img align="center" src="https://github.com/Cleoir-Dev/image-gif/blob/master/bottom_header.svg"  />
 
