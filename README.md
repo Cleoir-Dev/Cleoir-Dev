@@ -80,8 +80,13 @@
 
 ###
 
-  <img align="center" src="https://github.com/Cleoir-Dev/image-gif/blob/master/bottom_header.svg"  />
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/Cleoir-Dev/Cleoir-Dev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="center" src="https://github.com/Cleoir-Dev/image-gif/blob/master/bottom_header.svg"  />
 
 
 ###
